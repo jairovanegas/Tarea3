@@ -2,7 +2,7 @@ import numpy
 import logging
 import sys
 import random
-#Configuracion de librerias
+#Library setup
 numpy.set_printoptions(threshold = sys.maxsize)
 logging.basicConfig(level=logging.DEBUG, filename='knapsack.log', filemode='w', format='%(message)s')
 
