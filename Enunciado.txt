@@ -1,0 +1,10 @@
+1) Implementar el algoritmo 134() y analizarlo.
+2) Implementar Knapsack() visto en clase e imprimir la cache despues de cada caso.
+2.1) Reflexionar sobre el cache.
+2.2) Diseñar estrategia para sacar los articulos desde el cache.
+3) Implementar Knapsack() para que devuelva la lista de articulos.
+
+Googlear dynamic programming problems
+Top 50 dynamic programming problems
+
+Tutorial hackerrank dynamic programming tutorial
